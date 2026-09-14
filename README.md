@@ -21,8 +21,8 @@ El objetivo del proyecto es validar la funcionalidad clave del flujo de compras,
 ## 📂 Estructura del Repositorio
 
 * **`Casos de P.xlsx`**: Matriz principal en Excel con el detalle completo de los 9 casos de prueba (precondiciones, datos de prueba, pasos, resultados esperados/obtenidos y prioridades).
-* **`/Bug-reports/`**: Documentación técnica detallada de los errores detectados durante las pruebas:
-  * [Reporte de Defectos (BUG-001 y BUG-002)](./Bug-reports/BUG-001.md)
+ * **`/Bug-reports/`**: Documentación técnica detallada de los errores detectados durante las pruebas:
+  * [Reporte Completo de Defectos](./Bug-reports/)
 * **`bug_tienda_rota_problem_user.png`**: Captura de pantalla de la falla de interfaz y consola del BUG-001.
 * **`checkout_vacio_fail.png`**: Captura de pantalla del comportamiento anómalo en el checkout del BUG-002.
 
