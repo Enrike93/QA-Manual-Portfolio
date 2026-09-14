@@ -1,0 +1,44 @@
+REPORTE DE BUG / DEFECTO
+================================================================================
+
+ID de Bug: BUG-002
+Caso de Prueba Relacionado: TC-008
+Título: Se permite avanzar al Checkout teniendo el carrito de compras vacío
+Módulo / Funcionalidad: Checkout / Regla de Negocio
+Severidad: Media
+Prioridad: Media
+Estado: Abierto
+Responsable: QA Team
+Fecha de Registro: 17/08/2026
+
+--------------------------------------------------------------------------------
+ENTORNO / CONFIGURACIÓN
+--------------------------------------------------------------------------------
+• Plataforma: Web
+• Sitio Web: https://www.saucedemo.com/cart.html
+• Navegador: Google Chrome / Mozilla Firefox
+• Usuario de Prueba: standard_user / problem_user
+
+--------------------------------------------------------------------------------
+DESCRIPCIÓN DETALLADA
+--------------------------------------------------------------------------------
+El sistema permite a los usuarios hacer clic en el botón "Checkout" e iniciar el 
+proceso de compra ($0.00) sin haber seleccionado ningún producto previamente en la tienda.
+
+--------------------------------------------------------------------------------
+PASOS PARA REPRODUCIR
+--------------------------------------------------------------------------------
+1. Navegar a https://www.saucedemo.com/ e iniciar sesión.
+2. Hacer clic directamente en el icono del carrito (asegurarse de que marque 0 productos).
+3. Hacer clic en el botón "Checkout".
+
+--------------------------------------------------------------------------------
+RESULTADO ESPERADO
+--------------------------------------------------------------------------------
+El botón "Checkout" debe estar deshabilitado o el sistema debe mostrar una alerta de validación 
+impidiendo continuar si el importe total es $0.00 o no hay artículos.
+
+--------------------------------------------------------------------------------
+RESULTADO OBTENIDO
+--------------------------------------------------------------------------------
+El sistema permite avanzar al formulario de checkout (/checkout-step-one.html) sin restricciones.
