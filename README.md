@@ -1,8 +1,41 @@
-<img width="1841" height="830" alt="checkout_vacio_fail3" src="https://github.com/user-attachments/assets/56b973ff-8c71-4e96-a20f-2d7c4bac913f" />
-<img width="1885" height="511" alt="checkout_vacio_fail2" src="https://github.com/user-attachments/assets/cd27d743-da0c-461b-a16f-e07b4f52a381" />
-<img width="1846" height="810" alt="checkout_vacio_fail1" src="https://github.com/user-attachments/assets/e790464d-106a-47d8-a6d4-a9ab94169545" />
-<img width="1857" height="878" alt="checkout_vacio_fail" src="https://github.com/user-attachments/assets/37fa47b3-e30c-4384-9f7f-8f210bd73be4" />
-<img width="1870" height="813" alt="bug_remove_problem_user" src="https://github.com/user-attachments/assets/aa9c44a0-b6ee-46f6-9b87-eaedfe152d59" />
-<img width="1463" height="748" alt="checkout_vacio_fail5" src="https://github.com/user-attachments/assets/50c20669-08a9-4561-a999-ec66113a4047" />
-<img width="1853" height="734" alt="checkout_vacio_fail4" src="https://github.com/user-attachments/assets/d78c41de-06ff-4d3d-820c-7cbaa3349d2f" />
-# QA-Manual-Portfolio
+# 🧪 Portafolio de Pruebas QA Manual — E-commerce SauceDemo
+
+## 📌 Descripción del Proyecto
+Este repositorio contiene el diseño, la suite de pruebas manuales, la matriz de ejecución, los reportes de defectos y las evidencias visuales desarrollados para la plataforma e-commerce [SauceDemo](https://www.saucedemo.com/).
+
+El objetivo del proyecto es validar la funcionalidad clave del flujo de compras, gestión de sesiones, seguridad básica (XSS y control de acceso por URL) y reglas de negocio.
+
+---
+
+## 📊 Resumen de Ejecución (Métricas)
+
+| Métrica | Valor |
+| :--- | :--- |
+| **Total de Casos de Prueba Ejecutados** | 9 |
+| **Casos Exitosos (Pass)** | 7 |
+| **Casos Fallidos (Fail)** | 2 |
+| **Porcentaje de Aprobación (% Pass Rate)** | **77.7%** |
+
+---
+
+## 📂 Estructura del Repositorio
+
+* **`Casos de P.xlsx`**: Matriz principal en Excel con el detalle completo de los 9 casos de prueba (precondiciones, datos de prueba, pasos, resultados esperados/obtenidos y prioridades).
+* **`/bug-reports/`**: Documentación técnica detallada de los errores detectados durante las pruebas:
+  * [BUG-001: Imágenes idénticas y fallo en botón "Add to cart" con `problem_user`](./bug-reports/BUG-001.md)
+  * [BUG-002: Navegación forzada y Checkout permitido con carrito vacío](./bug-reports/BUG-002.md)
+* **`bug_tienda_rota_problem_user.png`**: Captura de pantalla de la falla de interfaz y consola del BUG-001.
+* **`checkout_vacio_fail.png`**: Captura de pantalla del comportamiento anómalo en el checkout del BUG-002.
+
+---
+
+## 🛠️ Herramientas y Metodologías Aplicadas
+* **Gestión & Documentación:** Markdown, Microsoft Excel / Google Sheets
+* **Análisis Técnico:** Chrome DevTools (consola JS y red)
+* **Estrategias de Pruebas:** Pruebas Funcionales, Happy Path, Pruebas de Frontera/Seguridad (XSS/Auth), Reglas de Negocio y Pruebas Negativas.
+
+---
+
+## 🔗 Contacto / Enlaces
+- **Portafolio en Google Drive:** [Acceso directo a carpeta pública](https://drive.google.com/)
+- **Perfil de LinkedIn:** [Enlace a tu perfil]
