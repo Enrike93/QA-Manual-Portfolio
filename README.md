@@ -36,5 +36,4 @@ El objetivo del proyecto es validar la funcionalidad clave del flujo de compras,
 ---
 
 ## 🔗 Contacto / Enlaces
-- **Portafolio en Google Drive:** [Acceso directo a carpeta pública](https://drive.google.com/)
 - **Perfil de LinkedIn:**([linkedin.com/in/enrique-obregon-04358a322/](https://www.linkedin.com/in/enrique-obregon-04358a322/))
