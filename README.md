@@ -18,7 +18,7 @@ El objetivo del proyecto es validar la funcionalidad clave del flujo de compras,
 
 ---
 
-## 📂 Estructura del Repositorio
+##  Estructura del Repositorio
 
 * **`Casos de P.xlsx`**: Matriz principal en Excel con el detalle completo de los 9 casos de prueba (precondiciones, datos de prueba, pasos, resultados esperados/obtenidos y prioridades).
  * **`/Bug-reports/`**: Documentación técnica detallada de los errores detectados durante las pruebas:
@@ -35,5 +35,8 @@ El objetivo del proyecto es validar la funcionalidad clave del flujo de compras,
 
 ---
 
-## 🔗 Contacto / Enlaces
+##  Contacto / Enlaces
 - **Perfil de LinkedIn:**([linkedin.com/in/enrique-obregon-04358a322/](https://www.linkedin.com/in/enrique-obregon-04358a322/))
+- Ubicación: Novi Sad, Serbia
+-Email: enriqueobregon251@gmail.com
+-Telefono:+381 606746509
