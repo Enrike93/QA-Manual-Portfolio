@@ -1,6 +1,6 @@
-# 🧪 Portafolio de Pruebas QA Manual — E-commerce SauceDemo
+#  Portafolio de Pruebas QA Manual — E-commerce SauceDemo
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 Este repositorio contiene el diseño, la suite de pruebas manuales, la matriz de ejecución, los reportes de defectos y las evidencias visuales desarrollados para la plataforma e-commerce [SauceDemo](https://www.saucedemo.com/).
 
 El objetivo del proyecto es validar la funcionalidad clave del flujo de compras, gestión de sesiones, seguridad básica (XSS y control de acceso por URL) y reglas de negocio.
