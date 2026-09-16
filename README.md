@@ -38,5 +38,5 @@ El objetivo del proyecto es validar la funcionalidad clave del flujo de compras,
 ##  Contacto / Enlaces
 - **Perfil de LinkedIn:**([linkedin.com/in/enrique-obregon-04358a322/](https://www.linkedin.com/in/enrique-obregon-04358a322/))
 * Ubicación : Novi Sad, Serbia.
-* Email: enriqueobregon251@gmail.com
+* Email: obregonenrique251@gmail.com
 * Telefono :+381 606746509
