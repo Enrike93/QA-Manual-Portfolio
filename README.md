@@ -39,7 +39,7 @@ El objetivo del proyecto es validar la funcionalidad clave del flujo de compras,
 Se diseñó y ejecutó una suite de pruebas de API utilizando **ReqRes**:
 - **Petición GET:** Validación de código de respuesta `200 OK` y estructura de datos JSON de usuarios.
 - **Petición POST:** Envío de payload en formato JSON para la creación de registros (`201 Created`).
-- **Colección de Postman:** [Ver archivo JSON de la colección](./My_Collection.postman.json)
+- **Colección de Postman:** [Ver archivo JSON de la colección](./My_Collection.postman.json
 
 ##  Contacto / Enlaces
 - **Perfil de LinkedIn:**([linkedin.com/in/enrique-obregon-04358a322/](https://www.linkedin.com/in/enrique-obregon-04358a322/))
